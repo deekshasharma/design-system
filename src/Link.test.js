@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import { Link } from "./Link";
 
 const LinkWrapper = (props) => <a {...props} />;
+
 it("has an href attribute", () => {
   const div = document.createElement("div");
   ReactDOM.render(
@@ -12,6 +13,6 @@ it("has an href attribute", () => {
     div
   );
   expect(div.querySelector('a[href="https://bonsaiilabs.com"]')).not.toBeNull();
-  expect(div.textContent).toEqual("Link Text");
+  expect(div.textContent).toEqual("Bonsaiilabs");
   ReactDOM.unmountComponentAtNode(div);
 });
