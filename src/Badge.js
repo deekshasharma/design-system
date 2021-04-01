@@ -10,6 +10,7 @@ const BadgeWrapper = styled.div`
   line-height: 12px;
   padding: 4px 12px;
   border-radius: 3em;
+  border: 0.5px solid gray;
   font-weight: ${typography.weight.bold};
 
   svg {
