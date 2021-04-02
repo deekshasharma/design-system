@@ -1,15 +1,6 @@
-# v0.1.1 (Thu Apr 01 2021)
+# v0.1.0 (Tue Mar 09 2021)
 
-#### 🐛 Bug Fix
-
-- Update button shape [#1](https://github.com/deekshasharma/design-system/pull/1) ([@deekshasharma](https://github.com/deekshasharma))
-
-#### ⚠️ Pushed to `master`
-
-- Added a border to every badge ([@deekshasharma](https://github.com/deekshasharma))
-- automated deployment with github action ([@deekshasharma](https://github.com/deekshasharma))
-- update ([@deekshasharma](https://github.com/deekshasharma))
-- some re-usable components ([@deekshasharma](https://github.com/deekshasharma))
+- Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon` and `Link` components.
 
 #### Authors: 1
 
