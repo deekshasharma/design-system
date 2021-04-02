@@ -1,8 +1,7 @@
 
 ## 🚅 Quick start
 
-1.  **Fork and clone the application.**
-    ```
+1.  **Fork the repo and clone the application on the machine.**
 
 1.  **Install the dependencies.**
 

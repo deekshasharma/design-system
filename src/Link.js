@@ -155,9 +155,6 @@ const applyStyle = LinkWrapper => {
   );
 };
 
-/**
- * Links can contains text and/or icons. Be careful using only icons, you must provide a text alternative via aria-label for accessibility.
- */
 export function Link({ isButton, withArrow, LinkWrapper, children, ...rest }) {
   const content = (
     <Fragment>
